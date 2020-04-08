@@ -1,0 +1,6 @@
+if theme.changyan && theme.changyan.enable
+  #changyan_thread
+  - var hash = page.title + page.date;
+  div(id="SOHUCS" )
+  each url in theme.comment.js
+       script(src=url)

@@ -1,0 +1,14 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: 佛山康卫虫控
+      link: http://www.kwpmp.com/
+      avatar: http://www.kwpmp.com/Templates/CompanyDefault/images/ewm.jpg
+      descr: 康卫虫控致力于有害生物管理服务。
+    2:
+      name: xxxxxx
+      link: https://www.xxxxxxcn/
+      avatar: https://xxxxx/avatar.png
+      descr: xxxxxxx  
+
