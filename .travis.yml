@@ -22,7 +22,7 @@ script:
 # 指定博客分支
 branches:
   only:
-    - blog-source# 触发持续集成的分支
+    - blog-source # 触发持续集成的分支
 
 # 指定博客的仓库地址
 env:
