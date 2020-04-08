@@ -28,7 +28,7 @@ branches:
 # 指定博客的仓库地址
 env:
  global:
-    - GH_REF: gitee.com/didiplus/didiplus.git
+    - GH_REF: github.com/didiplus/didiplus.git
     - GE_REF: gitee.com/didiplus/didiplus.git
 
 # 设置git提交名，邮箱；替换真实token到_config.yml文件，最后depoy部署
