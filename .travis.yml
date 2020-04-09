@@ -40,6 +40,6 @@ after_script:
   - git add .
   - git commit -m "TravisCI 自动部署"
   - git push --force --quiet "https://${GITHUB_TOKEN}@${GH_REF}" master:gh-pages
-  - git push --force --quiet "https://${GE_USERNAME}:${GE_password}@${GE_REF}" master:master
+  - git push --force --quiet "https://${GE_USERNAME}:${GE_PASSWORD}@${GE_REF}" master:master
 
 
